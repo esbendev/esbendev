@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Creamos un formulario de contacto en 3 minutos](https://www.youtube.com/watch?v=znoJSjJN_pw)
 - [Haciendo la página web de Homero Simpson](https://www.youtube.com/watch?v=0V7IOmYr2ts)
 - [Haciendo la página web de Homero Simpson](https://www.youtube.com/watch?v=BLgRwZ6owv0)
 - [CootsGPT - les muestro el código &lpar;HTML, CSS y JS&rpar;](https://www.youtube.com/watch?v=meZmiTYPYBk)
 - [Les enseño a hacer diferentes layouts usando solo HTML y CSS](https://www.youtube.com/watch?v=43UEvk7w01c)
-- [Así se hace un diseño asimétrico con HTML y CSS.](https://www.youtube.com/watch?v=h8vCZwt1rMI)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
