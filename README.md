@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Formulario de contacto - Parte 2](https://www.youtube.com/watch?v=fRYpNQ51umc)
 - [flutter 3.16  #appdeveloper #flutter #noticias](https://www.youtube.com/watch?v=gLEu606w3TA)
 - [Flutter 3.16 📣 - Novedades 👀](https://www.youtube.com/watch?v=_BMihpWMTCc)
 - [Formulario de contacto totalmente gratis! #tutorial #web #html #htmlforms #programación](https://www.youtube.com/watch?v=3lKZwfaa7aA)
 - [Crea un formulario de contacto para tu sitio](https://www.youtube.com/watch?v=znoJSjJN_pw)
-- [Haciendo la página web de Homero Simpson](https://www.youtube.com/watch?v=0V7IOmYr2ts)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
