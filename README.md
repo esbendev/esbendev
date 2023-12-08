@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Página para 2v2sday](https://www.youtube.com/watch?v=uyVmIahsndU)
 - [flutter 3.16  #appdeveloper #novedades #juegos](https://www.youtube.com/watch?v=IOrhi2iAjPw)
 - [flutter 3.16 #widgets #apple #ios #programación](https://www.youtube.com/watch?v=FoVn7OaJYSM)
 - [Formulario de contacto - Parte 2](https://www.youtube.com/watch?v=fRYpNQ51umc)
 - [flutter 3.16  #appdeveloper #flutter #noticias](https://www.youtube.com/watch?v=gLEu606w3TA)
-- [Flutter 3.16 📣 - Novedades 👀](https://www.youtube.com/watch?v=_BMihpWMTCc)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
