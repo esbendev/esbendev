@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [porcentaje del año... 1% #programación #web #html #css #js](https://www.youtube.com/watch?v=Adr_w6gE44s)
 - [¿Cuánto queda del año?🤔  ¡Creamos un contador!⏲️](https://www.youtube.com/watch?v=UB_Qpw8qLVU)
 - [actualizaciones a esbendev.com/say #streaming #web #programación](https://www.youtube.com/watch?v=wKsf5WQwxMQ)
 - [nueva versión de #2v2sday! #fuslie](https://www.youtube.com/watch?v=bXkG4-DvUZI)
 - [No more mispronouncing names at awards!!](https://www.youtube.com/watch?v=jSYE9lR9ogk)
-- [¿Nueva manera de disfrutar 2v2sday? 😳](https://www.youtube.com/watch?v=ubsBTGHIHp0)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
