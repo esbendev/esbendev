@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¿Quieres programar? ¡Este video es para tí!](https://www.youtube.com/watch?v=gekrxiw-ALc)
 - [Diseño de una columna  #programación #html #css #layoutdesign](https://www.youtube.com/watch?v=cgVismvQlCM)
 - [Firma profesional para email! ✍️📩 #gmail #html #tutorial #css #coding](https://www.youtube.com/watch?v=AR4jn6fg0uw)
 - [¡Creamos esta firma para email en 3 minutos! 😲🔥](https://www.youtube.com/watch?v=xjmj-m6Di2g)
 - [porcentaje del año... 1% #programación #web #html #css #js](https://www.youtube.com/watch?v=Adr_w6gE44s)
-- [¿Cuánto queda del año?🤔  ¡Creamos un contador!⏲️](https://www.youtube.com/watch?v=UB_Qpw8qLVU)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
