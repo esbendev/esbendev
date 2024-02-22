@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Ruta para aprender desarrollo de apps #desarrollodesoftware #apps #appdevelopment #programación](https://www.youtube.com/watch?v=Ml66eFkGUvc)
 - [Ruta para aprender backend #desarrolloweb #backend #webdevelopment](https://www.youtube.com/watch?v=CS2VUKg5hxk)
 - [Flutter 3.19 📰 estas son las novedades 🤔](https://www.youtube.com/watch?v=yEveuppBL1w)
 - [Desarrollo web &lpar;frontend&rpar; #programación #css #html #js #frontend #webdevelopment](https://www.youtube.com/watch?v=qpbz_x4SKSQ)
 - [⏰Cuenta regresiva para partidos de la MLS ⚽](https://www.youtube.com/watch?v=j0O0JEJXhpg)
-- [Haz esto antes de aprender a programar 💻⚠️ #programación #aprender](https://www.youtube.com/watch?v=bps9u75sD5E)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
