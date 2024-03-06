@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Tutorial de efectos y filtros para TikTok](https://www.youtube.com/watch?v=p9IlvO9y4xM)
 - [Web Check - Análisis completo de tu sitio web, ¡grátis!](https://www.youtube.com/watch?v=_Kq67ZMWcFc)
 - [¿Cuándo juega tu equipo? #mls #soccer #fútbol #futbol #html #css #js](https://www.youtube.com/watch?v=WvzIpZ7_UGc)
 - [charsets en vscode - parte 2 #vscode #vscodetips #encoding #html](https://www.youtube.com/watch?v=mja5Ff0lpA0)
 - [charsets en vscode - parte 1 #vscode #vscodetips #encoding #html](https://www.youtube.com/watch?v=Oj1S8cnJdJQ)
-- [Ruta para aprender desarrollo de apps #desarrollodesoftware #apps #appdevelopment #programación](https://www.youtube.com/watch?v=Ml66eFkGUvc)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
