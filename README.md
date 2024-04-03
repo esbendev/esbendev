@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Practicando idiomas con ChatGPT, Bing Copilot y Google Gemini &lpar;GRATIS&rpar;](https://www.youtube.com/watch?v=q2zmCbAUjN8)
 - [#anki #apps #idiomas #chino #aprenderingles](https://www.youtube.com/watch?v=nUsNu0j_OZE)
 - [#pleco #plecofish #chino #idiomas #apps](https://www.youtube.com/watch?v=83YvdQBDxFw)
 - [Mi plan para aprender chino📝&lpar;apps, práctica, cursos...&rpar;](https://www.youtube.com/watch?v=UHYL_htM9qs)
 - [aprendieron algún idioma? necesito su ayuda! #idiomas #poliglotas #aprendiendochino #china #chino](https://www.youtube.com/watch?v=a1zaa-2Aymc)
-- [voy a aprender chino #idiomas #china #chino #políglota #idiomas #poliglotas](https://www.youtube.com/watch?v=KT1mZL3YeR0)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
