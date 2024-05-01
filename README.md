@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¿Se está muriendo Flutter? - Despidos en los equipos de Flutter y Dart](https://www.youtube.com/watch?v=KS5psan2Gl4)
 - [probé Arc Browser en Windows! #arc #navegador #internet #arcbrowser #windows #windows11](https://www.youtube.com/watch?v=O1IsyyVeEfk)
 - [Probando Arc Browser para Windows 11 &lpar;beta&rpar;](https://www.youtube.com/watch?v=g51sFiT8t4A)
 - [quiz para practicar chino #china #quiz #practica #idiomas #poliglotas #html #css #js](https://www.youtube.com/watch?v=ULxQu5XIb2o)
 - [Usando GPTs para practicar conversaciones #copilot #gemini #bard #chatgpt #gpt](https://www.youtube.com/watch?v=4k-_QrTT6FI)
-- [Estoy armando una página para practicar chino 🀄 - código y explicación 👨‍💻](https://www.youtube.com/watch?v=fmcnOQm-2j8)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
