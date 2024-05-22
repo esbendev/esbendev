@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Flutter 3.22 📰 estas son las novedades🙋](https://www.youtube.com/watch?v=kpjll0O2TII)
 - [GPT-4o, el nuevo ChatGPT de OpenAI](https://www.youtube.com/watch?v=gKCh-UuXRYE)
 - [🥳Nuevo navegador para Windows! &lpar;Arc Browser&rpar;](https://www.youtube.com/watch?v=Y5VKQhLL-94)
 - [¿Google está matando a Flutter?](https://www.youtube.com/watch?v=KS5psan2Gl4)
 - [probé Arc Browser en Windows! #arc #navegador #internet #arcbrowser #windows #windows11](https://www.youtube.com/watch?v=O1IsyyVeEfk)
-- [Probando Arc Browser para Windows 11 &lpar;beta&rpar;](https://www.youtube.com/watch?v=g51sFiT8t4A)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
