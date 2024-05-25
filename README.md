@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [así puedes agregar fonts a tu página web #cursoonline #cursogratis #html #fonts #googlefonts](https://www.youtube.com/watch?v=deedUnGZ7wE)
 - [aprende a definir elementos en html #cursoonline #cursogratis #html #elementos #definicion](https://www.youtube.com/watch?v=QgsGuHlGRqY)
 - [👨‍🎓curso gratis de diseño web🔗🌐](https://www.youtube.com/watch?v=-9gjj4nkV-Y)
 - [Flutter 3.22 📰 estas son las novedades🙋](https://www.youtube.com/watch?v=kpjll0O2TII)
 - [GPT-4o, el nuevo ChatGPT de OpenAI](https://www.youtube.com/watch?v=gKCh-UuXRYE)
-- [🥳Nuevo navegador para Windows! &lpar;Arc Browser&rpar;](https://www.youtube.com/watch?v=Y5VKQhLL-94)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
