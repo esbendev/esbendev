@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [te explico los css resets #css #reset #cursoonline #cursogratis #html](https://www.youtube.com/watch?v=ALTJ_B8Nx-s)
 - [💡¿Cómo cambiar el estilo del #minimapa de #vscode?🤔 #vscodetips #vscodetricks #programacion](https://www.youtube.com/watch?v=skDiUCO0Rck)
 - [🧪Probando Edge en Windows 11 🪟](https://www.youtube.com/watch?v=0fWIFZI0xzs)
 - [Flutter 3.22 está aquí! #flutter #flutterflow #flutterwidgets #fluttertutorial #novedades #cambios](https://www.youtube.com/watch?v=BNeUQGjyN3o)
 - [así puedes agregar fonts a tu página web #cursoonline #cursogratis #html #fonts #googlefonts](https://www.youtube.com/watch?v=deedUnGZ7wE)
-- [aprende a definir elementos en html #cursoonline #cursogratis #html #elementos #definicion](https://www.youtube.com/watch?v=QgsGuHlGRqY)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
