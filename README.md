@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Arc es lo mismo que Chrome? 🤔](https://www.youtube.com/watch?v=_H-8xIg8hTE)
+- [este es el modelo de cajas #cursoonline #cursogratis #html #boxmodel #css #modelodecaja #caja](https://www.youtube.com/watch?v=OuyudbjlHQQ)
+- [¿Arc es una copia de Google Chrome? 😲](https://www.youtube.com/watch?v=_H-8xIg8hTE)
 - [💡Así puedes trabajar con más de un #cursor en #vscode?👨‍💻 #vscodetips #vscodetricks #programacion](https://www.youtube.com/watch?v=5v2-yJ3XpcA)
 - [qué es html? #cursoonline #cursogratis #html #definicion #queeseso  #htmlcssjavascript](https://www.youtube.com/watch?v=HkBIjDBGqEw)
 - [💡¿Cómo abrir un archivo del proyecto actual sin tener que buscarlo de forma manual?🤔 #vscode](https://www.youtube.com/watch?v=MUoN4gQVvE8)
-- [te explico los css resets #css #reset #cursoonline #cursogratis #html](https://www.youtube.com/watch?v=ALTJ_B8Nx-s)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
