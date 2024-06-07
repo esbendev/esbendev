@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [💡¿Cómo cambiar el idioma en #vscode?🤔 #vscodetips #vscodetricks #programacion #idioma](https://www.youtube.com/watch?v=aCHTu-DkMVM)
 - [este es el modelo de cajas #cursoonline #cursogratis #html #boxmodel #css #modelodecaja #caja](https://www.youtube.com/watch?v=OuyudbjlHQQ)
-- [¿Arc es una copia de Google Chrome? 😲](https://www.youtube.com/watch?v=_H-8xIg8hTE)
+- [Arc Browser y Google Chrome son lo mismo??](https://www.youtube.com/watch?v=_H-8xIg8hTE)
 - [💡Así puedes trabajar con más de un #cursor en #vscode?👨‍💻 #vscodetips #vscodetricks #programacion](https://www.youtube.com/watch?v=5v2-yJ3XpcA)
 - [qué es html? #cursoonline #cursogratis #html #definicion #queeseso  #htmlcssjavascript](https://www.youtube.com/watch?v=HkBIjDBGqEw)
-- [💡¿Cómo abrir un archivo del proyecto actual sin tener que buscarlo de forma manual?🤔 #vscode](https://www.youtube.com/watch?v=MUoN4gQVvE8)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
