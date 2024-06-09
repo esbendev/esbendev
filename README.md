@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [modo inspeccionar en tu navegador #cursoonline #cursogratis #html #chrome #edge #firefox #inspect](https://www.youtube.com/watch?v=274DXdSZFzk)
 - [diseño responsive es esto #cursoonline #cursogratis #html #responsive #design #diseño](https://www.youtube.com/watch?v=qef326v-Iws)
 - [💡¿Cómo cambiar el idioma en #vscode?🤔 #vscodetips #vscodetricks #programacion #idioma](https://www.youtube.com/watch?v=aCHTu-DkMVM)
 - [este es el modelo de cajas #cursoonline #cursogratis #html #boxmodel #css #modelodecaja #caja](https://www.youtube.com/watch?v=OuyudbjlHQQ)
 - [El origen de los navegadores que usamos.](https://www.youtube.com/watch?v=_H-8xIg8hTE)
-- [💡Así puedes trabajar con más de un #cursor en #vscode?👨‍💻 #vscodetips #vscodetricks #programacion](https://www.youtube.com/watch?v=5v2-yJ3XpcA)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
