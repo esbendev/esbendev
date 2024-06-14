@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [definición de css #cursoonline #cursogratis #html #css](https://www.youtube.com/watch?v=9TSTdcCBBmM)
 - [Cambia el estilo de tu Windows Terminal &lpar;Powershell y Bash&rpar;](https://www.youtube.com/watch?v=JV9KZe8HI5Q)
 - [así funcionan los divs en html #cursoonline #cursogratis #html #divs #html5](https://www.youtube.com/watch?v=Xs7k_N10H84)
 - [aprende más sobre etiquetas en html aquí #cursoonline #cursogratis #html #etiqueta #etiquetas #css](https://www.youtube.com/watch?v=OfCuLB6EXto)
 - [modo inspeccionar en tu navegador #cursoonline #cursogratis #html #chrome #edge #firefox #inspect](https://www.youtube.com/watch?v=274DXdSZFzk)
-- [diseño responsive es esto #cursoonline #cursogratis #html #responsive #design #diseño](https://www.youtube.com/watch?v=qef326v-Iws)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
