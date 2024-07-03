@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Intro a Flutter 💙](https://www.youtube.com/watch?v=95oV6awfeMU)
 - [Nueva versión de Arc para Windows!](https://www.youtube.com/watch?v=UBsZPWpZxSo)
 - [listas de recursos gratis en Github &lpar;Awesome List&rpar;](https://www.youtube.com/watch?v=y2MDhVHYYo4)
 - [definición de css #cursoonline #cursogratis #html #css](https://www.youtube.com/watch?v=9TSTdcCBBmM)
 - [Cambia el estilo de tu Windows Terminal &lpar;Powershell y Bash&rpar;](https://www.youtube.com/watch?v=JV9KZe8HI5Q)
-- [así funcionan los divs en html #cursoonline #cursogratis #html #divs #html5](https://www.youtube.com/watch?v=Xs7k_N10H84)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
