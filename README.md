@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Traducciones en tu app &lpar;internacionalización en Flutter&rpar;](https://www.youtube.com/watch?v=jLfOP3-fmYw)
+- [Apps multilingües &lpar;internacionalización en Flutter&rpar;](https://www.youtube.com/watch?v=jLfOP3-fmYw)
 - [Intro a Flutter 💙](https://www.youtube.com/watch?v=95oV6awfeMU)
 - [Nueva versión de Arc para Windows!](https://www.youtube.com/watch?v=UBsZPWpZxSo)
 - [listas de recursos gratis en Github &lpar;Awesome List&rpar;](https://www.youtube.com/watch?v=y2MDhVHYYo4)
