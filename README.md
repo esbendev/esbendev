@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Nuevo navegador! Ladybird](https://www.youtube.com/watch?v=6NPepOW_Na4)
 - [Apps multilingües &lpar;internacionalización en Flutter&rpar;](https://www.youtube.com/watch?v=jLfOP3-fmYw)
 - [Intro a Flutter 💙](https://www.youtube.com/watch?v=95oV6awfeMU)
 - [Nueva versión de Arc para Windows!](https://www.youtube.com/watch?v=UBsZPWpZxSo)
 - [listas de recursos gratis en Github &lpar;Awesome List&rpar;](https://www.youtube.com/watch?v=y2MDhVHYYo4)
-- [definición de css #cursoonline #cursogratis #html #css](https://www.youtube.com/watch?v=9TSTdcCBBmM)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
