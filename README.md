@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Crowdstrike y la pantalla azul en Windows](https://www.youtube.com/watch?v=vQK1RvHmD7g)
+- [No anda nada, crowdstrike y windows](https://www.youtube.com/watch?v=vQK1RvHmD7g)
 - [Nuevo navegador! Ladybird](https://www.youtube.com/watch?v=6NPepOW_Na4)
 - [Apps multilingües &lpar;internacionalización en Flutter&rpar;](https://www.youtube.com/watch?v=jLfOP3-fmYw)
 - [Intro a Flutter 💙](https://www.youtube.com/watch?v=95oV6awfeMU)
