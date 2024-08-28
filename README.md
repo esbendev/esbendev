@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Hacemos un sitio web simple &lpar;parte 1 de 2&rpar;](https://www.youtube.com/watch?v=X6KShIhkvVU)
 - [Flutter 3.24 📰 Novedades y Cambios Que Debes Conocer 🙋](https://www.youtube.com/watch?v=2RIpQXqthnk)
 - [SearchGPT: la nueva herramienta de OpenAI](https://www.youtube.com/watch?v=0M5BDk7Tfjg)
 - [Bat es mejor que Cat en Linux](https://www.youtube.com/watch?v=ImzNQmipyLk)
 - [No anda nada, crowdstrike y windows](https://www.youtube.com/watch?v=vQK1RvHmD7g)
-- [Nuevo navegador! Ladybird](https://www.youtube.com/watch?v=6NPepOW_Na4)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
