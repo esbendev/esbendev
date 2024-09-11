@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Arc Browser Windows - Cambios](https://www.youtube.com/watch?v=eMFc96CsvF4)
 - [Hacemos un sitio web simple - parte 2](https://www.youtube.com/watch?v=6TJfiflyja0)
 - [Hacemos un sitio web simple - parte 1](https://www.youtube.com/watch?v=X6KShIhkvVU)
 - [Flutter 3.24 📰 Novedades y Cambios Que Debes Conocer 🙋](https://www.youtube.com/watch?v=2RIpQXqthnk)
 - [SearchGPT: la nueva herramienta de OpenAI](https://www.youtube.com/watch?v=0M5BDk7Tfjg)
-- [Bat es mejor que Cat en Linux](https://www.youtube.com/watch?v=ImzNQmipyLk)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
