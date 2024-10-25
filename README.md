@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [sed - ¿Cómo funciona?](https://www.youtube.com/watch?v=KN56s83OvwY)
 - [grep - ¿Cómo funciona?](https://www.youtube.com/watch?v=caGuMbwTvjw)
 - [Perplexity Pro - probando el sitio web](https://www.youtube.com/watch?v=3La_TBFaCms)
 - [Perplexity Pro - probando la app](https://www.youtube.com/watch?v=hmzDvHulFxs)
 - [¿Nuevo navegador favorito? Zen Browser](https://www.youtube.com/watch?v=0WivlJ1xvfk)
-- [Arc Browser Windows - Cambios](https://www.youtube.com/watch?v=eMFc96CsvF4)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
