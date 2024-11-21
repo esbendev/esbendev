@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Windows con poco RAM - ¿Qué navegador me conviene?](https://www.youtube.com/watch?v=Pj94ikO7rro)
+- [Navegadores que usen poco RAM](https://www.youtube.com/watch?v=Pj94ikO7rro)
 - [¿Qué es Flock? ¿Qué pasa con Flutter?](https://www.youtube.com/watch?v=fNWhmW6I93Q)
 - [sed - ¿Cómo funciona?](https://www.youtube.com/watch?v=KN56s83OvwY)
 - [grep - ¿Cómo funciona?](https://www.youtube.com/watch?v=caGuMbwTvjw)
