@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Nuevo sitio web para esbendev](https://www.youtube.com/watch?v=eJUIFPWZywU)
 - [Navegadores que usen poco RAM](https://www.youtube.com/watch?v=Pj94ikO7rro)
 - [¿Qué es Flock? ¿Qué pasa con Flutter?](https://www.youtube.com/watch?v=fNWhmW6I93Q)
 - [sed - ¿Cómo funciona?](https://www.youtube.com/watch?v=KN56s83OvwY)
 - [grep - ¿Cómo funciona?](https://www.youtube.com/watch?v=caGuMbwTvjw)
-- [Perplexity Pro - probando el sitio web](https://www.youtube.com/watch?v=3La_TBFaCms)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
