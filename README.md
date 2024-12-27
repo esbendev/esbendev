@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Te cuento qué pasó en &quot;Flutter in Production&quot;](https://www.youtube.com/watch?v=D91U5nxl6uo)
+- [Novedades en Flutter 👀 - Evento &quot;Flutter in Production&quot;](https://www.youtube.com/watch?v=D91U5nxl6uo)
 - [Tarjeta navideña gratis #tarjeta #navideña #gratis #feliznavidad #navidad #felicesfiestas #html #css](https://www.youtube.com/watch?v=g8qHBDe4-zc)
 - [🎄¡Tarjeta navideña!🎅](https://www.youtube.com/watch?v=Vgvkx3FcPb8)
 - [Nuevo sitio web para esbendev](https://www.youtube.com/watch?v=eJUIFPWZywU)
