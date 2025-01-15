@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [🐍 Actualización automática con Python 👨‍💻](https://www.youtube.com/watch?v=sbSXD3_y0C4)
 - [🙀¡Zen Browser ya está en Beta!😲](https://www.youtube.com/watch?v=k4jMmelsbYw)
 - [Flutter 3.27 📰 Novedades y Cambios Que Debes Conocer 🙋](https://www.youtube.com/watch?v=1Ji36--uqTI)
 - [Novedades en Flutter 👀 - Evento &quot;Flutter in Production&quot;](https://www.youtube.com/watch?v=D91U5nxl6uo)
 - [Tarjeta navideña gratis #tarjeta #navideña #gratis #feliznavidad #navidad #felicesfiestas #html #css](https://www.youtube.com/watch?v=g8qHBDe4-zc)
-- [🎄¡Tarjeta navideña!🎅](https://www.youtube.com/watch?v=Vgvkx3FcPb8)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
