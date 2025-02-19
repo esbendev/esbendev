@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Flutter 3.29 📰 Novedades y Cambios Que Debes Conocer 🙋](https://www.youtube.com/watch?v=V-xZ9KBzLFg)
 - [Nuevo navegador - Opera Air](https://www.youtube.com/watch?v=pAo2bYnHgvg)
 - [Probando mods en Zen Browser](https://www.youtube.com/watch?v=n3xLD4CNZjk)
 - [DeepSeek, la IA de China](https://www.youtube.com/watch?v=PfZFSD2tHRE)
 - [herramientas de Linux - man](https://www.youtube.com/watch?v=S3u7lu4-_ZE)
-- [Sitio web automático con Python 👨‍💻](https://www.youtube.com/watch?v=sbSXD3_y0C4)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
