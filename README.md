@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [¿qué versión les gusta más? 🤔](https://www.youtube.com/watch?v=E59Kkm1ECMs)
+- [rediseñé esta página de los timbers... 🤔](https://www.youtube.com/watch?v=E59Kkm1ECMs)
 - [Nuevo navegador - Deta Surf](https://www.youtube.com/watch?v=WorQ55Q7ke4)
 - [Flutter 3.29 📰 Novedades y Cambios Que Debes Conocer 🙋](https://www.youtube.com/watch?v=V-xZ9KBzLFg)
 - [Nuevo navegador - Opera Air](https://www.youtube.com/watch?v=pAo2bYnHgvg)
