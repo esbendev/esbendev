@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Bytedance lanzó Lynx &lpar;los que hicieron tiktok&rpar;](https://www.youtube.com/watch?v=3TpdXINKsLE)
+- [Bytedance lanzó Lynx](https://www.youtube.com/watch?v=3TpdXINKsLE)
 - [Resideño de &quot;Timbers Goal Dust&quot;... 🤔](https://www.youtube.com/watch?v=E59Kkm1ECMs)
 - [Deta Surf... 🫤 &lpar;me quedo con Zen&rpar;](https://www.youtube.com/watch?v=WorQ55Q7ke4)
 - [Flutter 3.29 📰 Novedades y Cambios Que Debes Conocer 🙋](https://www.youtube.com/watch?v=V-xZ9KBzLFg)
