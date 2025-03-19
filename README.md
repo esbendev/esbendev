@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Volvió Pebble! 🥳](https://www.youtube.com/watch?v=6QZYYNmGJys)
 - [LynxJS, competencia para Flutter y React Native](https://www.youtube.com/watch?v=3TpdXINKsLE)
 - [Resideño de &quot;Timbers Goal Dust&quot;... 🤔](https://www.youtube.com/watch?v=E59Kkm1ECMs)
 - [Deta Surf... 🫤 &lpar;me quedo con Zen&rpar;](https://www.youtube.com/watch?v=WorQ55Q7ke4)
 - [Flutter 3.29 📰 Novedades y Cambios Que Debes Conocer 🙋](https://www.youtube.com/watch?v=V-xZ9KBzLFg)
-- [Nuevo navegador - Opera Air](https://www.youtube.com/watch?v=pAo2bYnHgvg)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
