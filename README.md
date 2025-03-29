@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Vuelve Pebble! #pebble #coredevices #reloj #smartwatch](https://www.youtube.com/watch?v=xocZz_NGhDQ)
 - [Firefox cambió como usa tu información personal](https://www.youtube.com/watch?v=YfkPywJaq0s)
 - [Pebble ahora es Core](https://www.youtube.com/watch?v=6QZYYNmGJys)
 - [LynxJS, competencia para Flutter y React Native](https://www.youtube.com/watch?v=3TpdXINKsLE)
 - [Resideño de &quot;Timbers Goal Dust&quot;... 🤔](https://www.youtube.com/watch?v=E59Kkm1ECMs)
-- [Deta Surf... 🫤 &lpar;me quedo con Zen&rpar;](https://www.youtube.com/watch?v=WorQ55Q7ke4)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
