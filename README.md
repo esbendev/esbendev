@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [GPT-4.1, nuevo modelo para la API de OpenAI](https://www.youtube.com/watch?v=-IX9KkN61YM)
 - [herramientas de Linux - cat](https://www.youtube.com/watch?v=aaWM4BLYj3k)
 - [herramientas de Linux - ps](https://www.youtube.com/watch?v=FKbXKG_KNp4)
 - [herramientas de Linux - ls](https://www.youtube.com/watch?v=VPfXZ5aIFNE)
 - [OpenAI lanzó un nuevo generador de imágenes](https://www.youtube.com/watch?v=6Y2u_AjmKkY)
-- [¡Vuelve Pebble, mi reloj favorito! #pebble #coredevices #reloj #smartwatch](https://www.youtube.com/watch?v=94YbHYNeVWA)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
