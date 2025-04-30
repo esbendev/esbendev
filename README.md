@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [herramientas de Linux - ls](https://www.youtube.com/watch?v=reOjLNb2G0s)
 - [Navegador Ladybird en Windows &lpar;WSL2&rpar;](https://www.youtube.com/watch?v=P4-DQc8FTB8)
 - [OpenAI GPT-4.1](https://www.youtube.com/watch?v=-IX9KkN61YM)
 - [herramientas de Linux - cat](https://www.youtube.com/watch?v=aaWM4BLYj3k)
 - [herramientas de Linux - ps](https://www.youtube.com/watch?v=FKbXKG_KNp4)
-- [herramientas de Linux - ls](https://www.youtube.com/watch?v=VPfXZ5aIFNE)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
