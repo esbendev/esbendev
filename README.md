@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Cómo buscar cualquier texto en linux](https://www.youtube.com/watch?v=X746IrktvO8)
+- [grep en acción: encuentra información rápido en linux](https://www.youtube.com/watch?v=X746IrktvO8)
 - [Pewdiepie me hizo probar Arch Linux](https://www.youtube.com/watch?v=CQzzRbl37qE)
-- [Cómo ver archivos en linux](https://www.youtube.com/watch?v=reOjLNb2G0s)
-- [Navegador Ladybird en Windows &lpar;WSL2&rpar;](https://www.youtube.com/watch?v=P4-DQc8FTB8)
+- [Listando archivos con LS en Linux](https://www.youtube.com/watch?v=reOjLNb2G0s)
+- [Probando un navegador nuevo en Windows](https://www.youtube.com/watch?v=P4-DQc8FTB8)
 - [OpenAI GPT-4.1](https://www.youtube.com/watch?v=-IX9KkN61YM)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
