@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [ls -l &lpar;explicación&rpar;](https://www.youtube.com/watch?v=8CCQWS-2OcQ)
 - [#flutter #flutter332](https://www.youtube.com/watch?v=pX1ZKJvGeYI)
 - [Todo lo nuevo de Flutter en 5 mins &lpar;versión 3.32&rpar;](https://www.youtube.com/watch?v=wISHSObj_mo)
 - [ls en linux #gnu #archlinux #itsfoss #herramientas #linux](https://www.youtube.com/watch?v=cFg0UKXpJfc)
 - [Guía de instalación de Arch Linux en español](https://www.youtube.com/watch?v=uYA3aSxkl8g)
-- [grep en acción: encuentra información rápido en linux](https://www.youtube.com/watch?v=X746IrktvO8)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
