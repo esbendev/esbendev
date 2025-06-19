@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [#ls #lt #linux #cmd #tutorial](https://www.youtube.com/shorts/d0VLBP0SJCo)
 - [Pantallas de Login con Arch &lpar;SDDM&rpar;](https://www.youtube.com/watch?v=_oGpCvQA6dc)
 - [#grep #linux #ejemplo #programacion](https://www.youtube.com/shorts/Hc2bSXxGXBQ)
 - [#arch #linux #kitty #dolphin #firefox #wofi #hyprpaper #hyprland #pewdiepie](https://www.youtube.com/shorts/nEBro6S-tFQ)
 - [#grep #programacion #linux #arch](https://www.youtube.com/shorts/XvndTOmYOwU)
-- [Instalando Waybar en Hyprland [Guía - parte 3]](https://www.youtube.com/watch?v=EESW3s91uI4)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
