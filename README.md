@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [#grep #linux #ejemplos #tutorial](https://www.youtube.com/shorts/tiQOFFe89Ac)
 - [#arch #linux #install #archinstall](https://www.youtube.com/shorts/4tl4OdHALKs)
 - [Distros Populares de Linux](https://www.youtube.com/watch?v=NOwp4gmqiIA)
 - [#iwctl #tutorial #arch #linux](https://www.youtube.com/shorts/acJd1WXoWLQ)
 - [#ls #ltr #linux #cli #comando #tips #trucos](https://www.youtube.com/shorts/qMDjKbMhywo)
-- [#ls #lt #linux #cmd #tutorial](https://www.youtube.com/shorts/d0VLBP0SJCo)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
