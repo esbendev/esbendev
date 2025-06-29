@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [#grep #linux #ejemplos #tutorial](https://www.youtube.com/shorts/tiQOFFe89Ac)
-- [#arch #linux #install #archinstall](https://www.youtube.com/shorts/4tl4OdHALKs)
-- [Distros Populares de Linux](https://www.youtube.com/watch?v=NOwp4gmqiIA)
-- [#iwctl #tutorial #arch #linux](https://www.youtube.com/shorts/acJd1WXoWLQ)
-- [#ls #ltr #linux #cli #comando #tips #trucos](https://www.youtube.com/shorts/qMDjKbMhywo)
+- [¿Sabías que grep puede buscar en TODOS tus archivos?](https://www.youtube.com/shorts/tiQOFFe89Ac)
+- [¡Así de sencillo es instalar Arch Linux en 2025!](https://www.youtube.com/shorts/4tl4OdHALKs)
+- [¿Cuál es la mejor distribución de Linux para ti?](https://www.youtube.com/watch?v=NOwp4gmqiIA)
+- [¡Aprende a instalar Arch Linux fácil y rápido!](https://www.youtube.com/shorts/acJd1WXoWLQ)
+- [¡Así se listan archivos como un PRO en Linux!](https://www.youtube.com/shorts/qMDjKbMhywo)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
