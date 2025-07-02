@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¿Nunca Hiciste un USB Booteable? Mira Esto Paso a Paso](https://www.youtube.com/watch?v=VELO8IZqw_A)
 - [¿Por qué Hyperland te hace olvidar el mouse?](https://www.youtube.com/shorts/y650dO-NHqE)
 - [¿Sabías que grep puede buscar en TODOS tus archivos?](https://www.youtube.com/shorts/tiQOFFe89Ac)
 - [¡Así de sencillo es instalar Arch Linux en 2025!](https://www.youtube.com/shorts/4tl4OdHALKs)
 - [¿Cuál es la mejor distribución de Linux para ti?](https://www.youtube.com/watch?v=NOwp4gmqiIA)
-- [¡Aprende a instalar Arch Linux fácil y rápido!](https://www.youtube.com/shorts/acJd1WXoWLQ)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
