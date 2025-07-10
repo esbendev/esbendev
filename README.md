@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [La competencia de Chrome y Firefox - Ladybird](https://www.youtube.com/watch?v=QNc9I3Vv1Ls)
+- [pacman te sirve para instalar y actualizar paquetes en Arch Linux](https://www.youtube.com/shorts/RLd6EX6DGP0)
+- [Ladybird: La revolución open source en navegadores web](https://www.youtube.com/watch?v=QNc9I3Vv1Ls)
 - [Instala Waybar en Hyperland en minutos con este truco](https://www.youtube.com/shorts/7BX4lKzMYRs)
 - [Así puedes personalizar tu inicio de sesión en Arch Linux](https://www.youtube.com/shorts/gYJVYrPtGvA)
 - [¿Qué Linux es el mejor para ti?](https://www.youtube.com/shorts/oxC7jiRNsdw)
-- [¿Nunca Hiciste un USB Booteable? Mira Esto Paso a Paso](https://www.youtube.com/watch?v=VELO8IZqw_A)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
