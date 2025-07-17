@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Así puedes configurar keybindings en #Hyprland #arch #archlinux](https://www.youtube.com/shorts/Rc5RNOI--wE)
 - [Descubre cómo Ventoy hace todo más fácil para probar sistemas](https://www.youtube.com/watch?v=9wHP8GSCHSk)
 - [¿Qué hacer después de instalar Arch Linux? Guía fácil](https://www.youtube.com/shorts/SrOM63etHHo)
 - [pacman te sirve para instalar y actualizar paquetes en Arch Linux](https://www.youtube.com/shorts/RLd6EX6DGP0)
 - [Ladybird: La revolución open source en navegadores web](https://www.youtube.com/watch?v=QNc9I3Vv1Ls)
-- [Instala Waybar en Hyperland en minutos con este truco](https://www.youtube.com/shorts/7BX4lKzMYRs)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
