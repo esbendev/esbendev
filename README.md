@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Probé Linux Mint &lpar;Cinnamon&rpar; y me gustó!](https://www.youtube.com/watch?v=6EF5IBhU1Uc)
 - [Así puedes configurar keybindings en #Hyprland #arch #archlinux](https://www.youtube.com/shorts/Rc5RNOI--wE)
 - [Carga todas tus distros en un USB con Ventoy](https://www.youtube.com/watch?v=9wHP8GSCHSk)
 - [¿Qué hacer después de instalar Arch Linux? Guía fácil](https://www.youtube.com/shorts/SrOM63etHHo)
 - [pacman te sirve para instalar y actualizar paquetes en Arch Linux](https://www.youtube.com/shorts/RLd6EX6DGP0)
-- [Ladybird: La revolución open source en navegadores web](https://www.youtube.com/watch?v=QNc9I3Vv1Ls)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
