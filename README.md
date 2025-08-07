@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [¿Cuál Linux Mint elegir? ¡Te muestro!](https://www.youtube.com/watch?v=sd-8dDxo5XQ)
+- [¡Te muestro qué sabor de Linux Mint te conviene!](https://www.youtube.com/watch?v=sd-8dDxo5XQ)
 - [¡Probé Linux Mint &lpar;Cinnamon&rpar; y me gustó!](https://www.youtube.com/watch?v=6EF5IBhU1Uc)
 - [Así puedes configurar keybindings en #Hyprland #arch #archlinux](https://www.youtube.com/shorts/Rc5RNOI--wE)
 - [Carga todas tus distros en un USB con Ventoy](https://www.youtube.com/watch?v=9wHP8GSCHSk)
