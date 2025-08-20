@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Descubre lo nuevo de Flutter 3.35 en minutos!](https://www.youtube.com/watch?v=n31zQ55V1_M)
 - [terminal + chromium = carbonyl](https://www.youtube.com/watch?v=SfwaQ0p3OtM)
 - [Así están creando un navegador 100% independiente #ladybird #browser #navegador](https://www.youtube.com/shorts/MZ0ROWqodPQ)
 - [¡Te muestro qué sabor de Linux Mint te conviene!](https://www.youtube.com/watch?v=sd-8dDxo5XQ)
 - [¡Probé Linux Mint &lpar;Cinnamon&rpar; y me gustó!](https://www.youtube.com/watch?v=6EF5IBhU1Uc)
-- [Así puedes configurar keybindings en #Hyprland #arch #archlinux](https://www.youtube.com/shorts/Rc5RNOI--wE)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
