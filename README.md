@@ -14,6 +14,6 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 - [¡Descubre lo nuevo de Flutter 3.35 en minutos!](https://www.youtube.com/watch?v=n31zQ55V1_M)
 - [terminal + chromium = carbonyl](https://www.youtube.com/watch?v=SfwaQ0p3OtM)
 - [Así están creando un navegador 100% independiente #ladybird #browser #navegador](https://www.youtube.com/shorts/MZ0ROWqodPQ)
-- [¡Te muestro qué sabor de Linux Mint te conviene!](https://www.youtube.com/watch?v=sd-8dDxo5XQ)
+- [Sabores de Mint &lpar;Cinnamon vs Xfce vs MATE&rpar;](https://www.youtube.com/watch?v=sd-8dDxo5XQ)
 - [¡Probé Linux Mint &lpar;Cinnamon&rpar; y me gustó!](https://www.youtube.com/watch?v=6EF5IBhU1Uc)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
