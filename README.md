@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Omarchy ¡La mejor distro de Linux!](https://www.youtube.com/watch?v=M2s-isiT7YA)
 - [Flutter 3.35, te cuento lo nuevo](https://www.youtube.com/watch?v=n31zQ55V1_M)
 - [terminal + chromium = carbonyl](https://www.youtube.com/watch?v=SfwaQ0p3OtM)
 - [Así están creando un navegador 100% independiente #ladybird #browser #navegador](https://www.youtube.com/shorts/MZ0ROWqodPQ)
 - [Sabores de Mint &lpar;Cinnamon vs Xfce vs MATE&rpar;](https://www.youtube.com/watch?v=sd-8dDxo5XQ)
-- [¡Probé Linux Mint &lpar;Cinnamon&rpar; y me gustó!](https://www.youtube.com/watch?v=6EF5IBhU1Uc)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
