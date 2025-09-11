@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [OMARCHY - ¡Mirá lo fácil que es instalarlo!](https://www.youtube.com/watch?v=70O7_Xoz0kY)
+- [Instalo OMARCHY en 2 minutos](https://www.youtube.com/watch?v=70O7_Xoz0kY)
 - [Omarchy ¡La mejor distro de Linux!](https://www.youtube.com/watch?v=M2s-isiT7YA)
 - [Flutter 3.35, te cuento lo nuevo](https://www.youtube.com/watch?v=n31zQ55V1_M)
 - [terminal + chromium = carbonyl](https://www.youtube.com/watch?v=SfwaQ0p3OtM)
