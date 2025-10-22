@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Les leo el manual completo de Omarchy](https://www.youtube.com/watch?v=p0prAn3UhAc)
 - [El manual de Omarchy es buenísimo!](https://www.youtube.com/watch?v=Gf5Km5lEgxk)
 - [Omarchy optimizado](https://www.youtube.com/watch?v=QfnaCF9dOZc)
 - [Ya puedes actualizar Omarchy a la versión 3.0](https://www.youtube.com/watch?v=64ucahcmrck)
 - [Probando Pop!_OS por primera vez](https://www.youtube.com/watch?v=SgoadyxesU8)
-- [¿Cómo guardar un booleano en Local Storage? #js #localstorage #api](https://www.youtube.com/shorts/hvIuPlucVp0)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
