@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Probando COSMIC Desktop por Primera Vez &lpar;PopOS Beta&rpar;](https://www.youtube.com/watch?v=lZ6-Ul813ms)
+- [¡Descubre el futuro de Pop!_OS con Cosmic!](https://www.youtube.com/watch?v=lZ6-Ul813ms)
 - [Les leo el manual completo de Omarchy](https://www.youtube.com/watch?v=p0prAn3UhAc)
 - [El manual de Omarchy es buenísimo!](https://www.youtube.com/watch?v=Gf5Km5lEgxk)
 - [Omarchy optimizado](https://www.youtube.com/watch?v=QfnaCF9dOZc)
