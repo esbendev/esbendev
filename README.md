@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [¡Descubre el futuro de Pop!_OS con Cosmic!](https://www.youtube.com/watch?v=lZ6-Ul813ms)
+- [Las 5 Mejores Distros Linux para Principiantes en 2025](https://www.youtube.com/watch?v=8zwhcQJgvrE)
+- [¡Descubre el futuro de PopOS con Cosmic!](https://www.youtube.com/watch?v=lZ6-Ul813ms)
 - [Les leo el manual completo de Omarchy](https://www.youtube.com/watch?v=p0prAn3UhAc)
 - [El manual de Omarchy es buenísimo!](https://www.youtube.com/watch?v=Gf5Km5lEgxk)
 - [Omarchy optimizado](https://www.youtube.com/watch?v=QfnaCF9dOZc)
-- [Ya puedes actualizar Omarchy a la versión 3.0](https://www.youtube.com/watch?v=64ucahcmrck)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
