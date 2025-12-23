@@ -11,8 +11,8 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Cómo empezar en código abierto sin instalar nada](https://www.youtube.com/watch?v=DSNDGA9JkYI)
-- [Este navegador sigue mejorando mucho!](https://www.youtube.com/watch?v=QPFa0peXZoY)
+- [¡Hagamos tu primera contribución a Open Source &lpar;código abierto&rpar; en 5 minutos!](https://www.youtube.com/watch?v=DSNDGA9JkYI)
+- [Ladybird Browser - ¡Google y Mozilla van a tener competencia!](https://www.youtube.com/watch?v=QPFa0peXZoY)
 - [¿Qué pasa si instalas Arch Linux en modo minimal?](https://www.youtube.com/watch?v=IUNZnXfxNX4)
 - [Mira cómo se ve Cosmic en Pop!_OS 2025](https://www.youtube.com/shorts/N20eruxZ0_0)
 - [¡Instala Arch Linux paso a paso sin complicaciones!](https://www.youtube.com/watch?v=ws7B_2uswUw)
