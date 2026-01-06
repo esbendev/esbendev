@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Instalé los paquetes para juegar en CachyOS y creo que me paso a Cachy!](https://www.youtube.com/watch?v=OETAp0uVtH4)
+- [así funcionan las #aplicaciones #TUI en #omarchy #arch #linux](https://www.youtube.com/shorts/JdrDn5eoC40)
+- [¿Qué debería probar en CachyOS? ¡Déjame tus ideas!](https://www.youtube.com/shorts/COApetmUE4I)
 - [¡Probando CachyOS por primera vez!](https://www.youtube.com/watch?v=os3oRN2UVvg)
 - [¡Hagamos tu primera contribución a Open Source &lpar;código abierto&rpar; en 5 minutos!](https://www.youtube.com/watch?v=DSNDGA9JkYI)
-- [Ladybird Browser - ¡Google y Mozilla van a tener competencia!](https://www.youtube.com/watch?v=QPFa0peXZoY)
-- [¿Qué pasa si instalas Arch Linux en modo minimal?](https://www.youtube.com/watch?v=IUNZnXfxNX4)
-- [Mira cómo se ve Cosmic en Pop!_OS 2025](https://www.youtube.com/shorts/N20eruxZ0_0)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
