@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [¿Cuál es la mejor configuración de Arch Linux?](https://www.youtube.com/watch?v=RS802r0AMGI)
+- [¿Cuál usa menos RAM Cinnamon, Budgie o Deepin?](https://www.youtube.com/watch?v=DJh6zm9Rz9Y)
+- [¿Cuál usa menos RAM GNOME, KDE o Cosmic?](https://www.youtube.com/watch?v=zJ4iWH2h-kA)
+- [¿Cuál es el mejor Linux para mí en 2026?](https://www.youtube.com/watch?v=RS802r0AMGI)
 - [Ahora estoy jugando en #cachyosfunciona #steam y todo!](https://www.youtube.com/shorts/MSTikUzUlsI)
 - [¡Instalé los paquetes para juegar en CachyOS y creo que me paso a Cachy!](https://www.youtube.com/watch?v=OETAp0uVtH4)
-- [así funcionan las #aplicaciones #TUI en #omarchy #arch #linux](https://www.youtube.com/shorts/JdrDn5eoC40)
-- [¿Qué debería probar en CachyOS? ¡Déjame tus ideas!](https://www.youtube.com/shorts/COApetmUE4I)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
