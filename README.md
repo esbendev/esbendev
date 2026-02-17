@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡No más pruebas de ambientes! Mira los resultados FINALES](https://www.youtube.com/watch?v=l51Wqz0qt2A)
 - [¿Cuál usa menos RAM, Sway o Hyprland?](https://www.youtube.com/watch?v=WsPzlknSR40)
 - [¿Cuál usa menos RAM XFCE, LXQT o MATE?](https://www.youtube.com/watch?v=EMM5FuCvPBE)
 - [¿Cuál usa menos RAM Cinnamon, Budgie o Deepin?](https://www.youtube.com/watch?v=DJh6zm9Rz9Y)
 - [¿Cuál usa menos RAM GNOME, KDE o Cosmic?](https://www.youtube.com/watch?v=zJ4iWH2h-kA)
-- [¿Cuál es el mejor Linux para mí en 2026?](https://www.youtube.com/watch?v=RS802r0AMGI)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
