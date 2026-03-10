@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Navegadores que usan firefox de base](https://www.youtube.com/watch?v=_acLdhjimGU)
+- [Navegadores basados en Chromium](https://www.youtube.com/watch?v=ptyLOlcQb5E)
+- [LibreWolf y otros basado en Firefox ¿cuál es el mejor?](https://www.youtube.com/watch?v=_acLdhjimGU)
 - [¡Estos navegadores corren en tu terminal!](https://www.youtube.com/watch?v=s9thtPp-7b8)
 - [¡No más pruebas de ambientes! Mira los resultados FINALES](https://www.youtube.com/watch?v=l51Wqz0qt2A)
 - [¿Cuál usa menos RAM, Sway o Hyprland?](https://www.youtube.com/watch?v=WsPzlknSR40)
-- [¿Cuál usa menos RAM XFCE, LXQT o MATE?](https://www.youtube.com/watch?v=EMM5FuCvPBE)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
