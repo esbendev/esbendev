@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Foot, Kitty, Ghostty, Wezterm o Alacritty! ¿Cuál elijo?](https://www.youtube.com/watch?v=cb02DCyCq1c)
 - [El futuro de los navegadores. Esto viene después de Chromium y Gecko.](https://www.youtube.com/watch?v=kiZVJAjMzeE)
 - [Navegadores basados en Chromium](https://www.youtube.com/watch?v=ptyLOlcQb5E)
 - [LibreWolf y otros basado en Firefox ¿cuál es el mejor?](https://www.youtube.com/watch?v=_acLdhjimGU)
 - [¡Estos navegadores corren en tu terminal!](https://www.youtube.com/watch?v=s9thtPp-7b8)
-- [¡No más pruebas de ambientes! Mira los resultados FINALES](https://www.youtube.com/watch?v=l51Wqz0qt2A)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
