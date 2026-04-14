@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Configuramos Waybar para Hyprland!](https://www.youtube.com/watch?v=GG_UzS3EyO4)
 - [Instala Hyperland en Arch Linux desde CERO y FACIL](https://www.youtube.com/watch?v=0HDOG6iTlsM)
 - [¡Foot, Kitty, Ghostty, Wezterm o Alacritty! ¿Cuál elijo?](https://www.youtube.com/watch?v=cb02DCyCq1c)
 - [El futuro de los navegadores. Esto viene después de Chromium y Gecko.](https://www.youtube.com/watch?v=kiZVJAjMzeE)
 - [Navegadores basados en Chromium](https://www.youtube.com/watch?v=ptyLOlcQb5E)
-- [LibreWolf y otros basado en Firefox ¿cuál es el mejor?](https://www.youtube.com/watch?v=_acLdhjimGU)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
