@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¡Configura tu terminal Kitty en segundos!](https://www.youtube.com/watch?v=XJUssp_Svqc)
 - [¿Cansado de romper tu Hyprland.conf? ¡Mira esto!](https://www.youtube.com/watch?v=TULpCoxvA74)
 - [hyprland ricing - ¡fondos de pantalla con hyprpaper!](https://www.youtube.com/watch?v=d4xByVYV_Wg)
 - [hyprland ricing - ¡empezamos con waybar!](https://www.youtube.com/watch?v=GG_UzS3EyO4)
 - [Instala Hyperland en Arch Linux desde CERO y FACIL](https://www.youtube.com/watch?v=0HDOG6iTlsM)
-- [¡Foot, Kitty, Ghostty, Wezterm o Alacritty! ¿Cuál elijo?](https://www.youtube.com/watch?v=cb02DCyCq1c)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
