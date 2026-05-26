@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [¿¡Github se está muriendo!?](https://www.youtube.com/watch?v=RYCg4iQXtgw)
 - [!La terminal más útil! &lpar;kitty con starship, eza, fzf, bat&rpar;](https://www.youtube.com/watch?v=xDlWKhbzIe0)
 - [Chau .conf, hola .lua &lpar;hyprland 0.55&rpar;](https://www.youtube.com/watch?v=K-qWPLekzW4)
 - [Tu terminal merece verse así de bien!](https://www.youtube.com/watch?v=XJUssp_Svqc)
 - [¿Cansado de romper tu Hyprland.conf? ¡Mira esto!](https://www.youtube.com/watch?v=TULpCoxvA74)
-- [hyprland ricing - ¡fondos de pantalla con hyprpaper!](https://www.youtube.com/watch?v=d4xByVYV_Wg)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
