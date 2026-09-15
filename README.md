@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Así funciona la IA en Omarchy 👀](https://www.youtube.com/watch?v=des_voQTYxM)
 - [¡Instalé Omarchy Quattro!](https://www.youtube.com/watch?v=ZQ52OQuOiO4)
 - [Omarchy Quattro - ¡Un montón de cosas nuevas!](https://www.youtube.com/watch?v=UI3MoG6jWn0)
 - [¡No te pierdas ni un partido del Mundial 2026 con mi script!](https://www.youtube.com/watch?v=YKeMwUw4ipA)
 - [¿Quieres un escritorio Linux INCREÍBLE? ¡Mira esto!](https://www.youtube.com/watch?v=tze2m-DShrE)
-- [Por qué estoy buscando alternativas a Github](https://www.youtube.com/watch?v=RYCg4iQXtgw)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
