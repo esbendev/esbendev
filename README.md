@@ -11,7 +11,7 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
-- [Crea tus propias aplicaciónes usando IA](https://www.youtube.com/watch?v=LnODC6BTzmE)
+- [Crea Apps Web con IA sin Programar](https://www.youtube.com/watch?v=LnODC6BTzmE)
 - [Linux con agentes IA - Omarchy Quattro](https://www.youtube.com/watch?v=des_voQTYxM)
 - [¡Instalé Omarchy Quattro!](https://www.youtube.com/watch?v=ZQ52OQuOiO4)
 - [Omarchy Quattro - ¡Un montón de cosas nuevas!](https://www.youtube.com/watch?v=UI3MoG6jWn0)
