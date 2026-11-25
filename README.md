@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Bloqueá distracciones y malware con un solo archivo 👀](https://www.youtube.com/watch?v=t5M0yb-cTrw)
 - [Todo tu trabajo vive dentro de esta URL](https://www.youtube.com/watch?v=xei6Tffql8w)
 - [¡Omarchy Habla Español! 🥳 - Exploramos Omarchy 4.5](https://www.youtube.com/watch?v=wRpsIpap5Yo)
 - [Web apps con IA desde cero &lpar;sin programar&rpar;](https://www.youtube.com/watch?v=LnODC6BTzmE)
 - [Linux con agentes IA - Omarchy Quattro](https://www.youtube.com/watch?v=des_voQTYxM)
-- [¡Instalé Omarchy Quattro!](https://www.youtube.com/watch?v=ZQ52OQuOiO4)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
